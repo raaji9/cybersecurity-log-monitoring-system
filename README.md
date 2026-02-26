@@ -1,7 +1,20 @@
 # Cybersecurity Log Monitoring System
 
+## Project Details
+
+| | |
+|---|---|
+| **Project Title** | Cybersecurity Log Monitoring System |
+| **Training Program** | WIPRO DAI-DATA TRAINING PROJECT |
+| **Submitted By** | Rajaram Parida, Madhumita Parida, Pragyan Paramita |
+| **Submitted To** | Institute of Technical Education and Research (ITER), SOA |
+
+---
+
 ## Overview
 This project builds a **data warehouse-driven cybersecurity log monitoring system** with ETL pipelines, advanced SQL queries, Spark processing, Snowflake optimization, and interactive dashboards.
+
+---
 
 ## Features
 - ✅ Star & Snowflake schema design
@@ -12,6 +25,8 @@ This project builds a **data warehouse-driven cybersecurity log monitoring syste
 - ✅ Security: RBAC, Data Masking, Governance
 - ✅ Performance tuning
 - ✅ Interactive dashboard
+
+---
 
 ## Project Structure
 ```
@@ -38,6 +53,8 @@ This project builds a **data warehouse-driven cybersecurity log monitoring syste
 └── requirements.txt
 ```
 
+---
+
 ## Setup
 1. Clone the repo:
    ```bash
@@ -53,17 +70,25 @@ This project builds a **data warehouse-driven cybersecurity log monitoring syste
    - Set up Snowflake credentials in .env
    - Configure Spark if using local processing
 
+---
+
 ## Technologies Used
-- **Python 3.x** - ETL pipelines
-- **Apache Spark** - Batch & Streaming processing
-- **Snowflake** - Data warehouse
-- **Plotly** - Interactive dashboards
-- **SQL** - Advanced queries & optimization
+| Technology | Purpose |
+|------------|---------|
+| Python 3.x | ETL pipelines |
+| Apache Spark | Batch & Streaming processing |
+| Snowflake | Data warehouse |
+| Plotly | Interactive dashboards |
+| SQL | Advanced queries & optimization |
+
+---
 
 ## Security Features
 - Role-Based Access Control (RBAC)
 - Data Masking for sensitive fields (IP addresses)
 - Column-level security
+
+---
 
 ## Performance Optimizations
 - Table clustering by date and severity
@@ -72,5 +97,9 @@ This project builds a **data warehouse-driven cybersecurity log monitoring syste
 
 ---
 
-**Project by:** Raaji Patel  
-**GitHub:** https://github.com/raaji9/cybersecurity-log-monitoring-system
+## GitHub Repository
+**URL:** https://github.com/raaji9/cybersecurity-log-monitoring-system
+
+---
+
+© 2024 - WIPRO DAI-DATA Training Project
